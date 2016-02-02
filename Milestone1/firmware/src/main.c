@@ -9,7 +9,7 @@
 // Section: Main Entry Point
 // *****************************************************************************
 // *****************************************************************************
-
+//New Line
 int main ( void )
 {
     /* Initialize all MPLAB Harmony modules, including application(s). */
